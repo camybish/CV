@@ -39,6 +39,10 @@ _Sales Assistant_
 
 - As a member of the Peacocks team, my job ranged from working on the tills to managing allmanner of customer queries and purchases. Actively processing apparel to be unpacked, tagged and presented on the shop floor.
 
+**Fox in a Box, Dalston E8** (May 19 to Aug' 19)
+_Games Master_
+
+- Before I worked at Pier Pressure, I worked here and as well has running games and assisting players, I also had a hand in designing the experience of the games. In particular their Zodiac Killer escape room. The company had more of a scary side to it than Pier Pressure especially with this room, so my role involved tweaking the user experience for the room as it premiered in the UK. This involved upping the fear factor for players in a way that would give them an experience true to the room but keeping them engaged with the material of the room
 
 **Lee McCormack Design** (Aug' 18 to Jun' 19)  
 _Intern_
@@ -73,18 +77,21 @@ I honed my communication skills while completing my thesis at university, which 
 ## Education
 
 #### Makers Academy (Jan' 23 to Date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
+- Makers Academy provides an intensive course to provide you with the skills to become a junior developer with Full Stack experience
+- Throughout the course, we did plenty of practice exercises independently and through pair programming which you can peruse on my GitHub account
+- Improving my resolve was probably one of the biggest personal skills I got to develop. Coding can sometimes feel overwhelming but when working as a team, using the right resources can get you consistently improving and progressing in ways that surprise yourself
+- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above
+- e.g Frequently used paring in order to problem solve effeciently, requiring teamwork and communication.
+- More technical skills/knowledge listed below: 
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec
 
 #### **BSc Product Design - Bournemouth University**  (Sept ‘16 - July ‘21)
 
 - My degree course is professionally accredited by the Institution of Engineering Designers (IED) and fulfils requirements for Chartered Technological Product Designer (CTPD).
 - Over the course of my degree, I have covered a range of topics from material technologies to sustainability issues. Using computer aided design and analysis simulation tools along with engineering drawings producing my own unique products in the workshop studio.
+- My dissertation project was a great encapsulation of my creative spirit and lead me to create a toy for toddlers that worked at building communication and imaginative real world play.
+    - This came in the form of a toy that blended the timeless creativity of wooden trainsets and dollhouses. You can see this in detail on my Product Design portfolio linked here: https://cameronjamesbishop.wixsite.com/home 
 
 #### Any other qualifications
 
@@ -99,5 +106,8 @@ I honed my communication skills while completing my thesis at university, which 
 
 - Bouldering
     - Bouldering is really a puzzle. How do you take full advantage of the wall in front of you in order to get to the top? Learning how to make the most of complicated holes and trusting your abilities to take steps you didn't think you could
+    
+- Journaling
+    - Journaling as well as some other forms of writing have helped me to continually develop my communication skills and have helped give me the interesting writing challenge of making the mundane moments exciting to read about. 
 
 ((Any cool stuff that makes you a super part of a software development team))
