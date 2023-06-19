@@ -90,12 +90,13 @@ I honed my communication skills while completing my thesis at university, which 
 #### Makers Academy (Jan' 23 to Date)
 - Makers Academy provides an intensive course to provide you with the skills to become a junior developer with Full Stack experience
 - Throughout the course, we did plenty of practice exercises independently and through pair programming which you can peruse on my GitHub account
-- Improving my resolve was probably one of the biggest personal skills I got to develop. Coding can sometimes feel overwhelming but when working as a team, using the right resources can get you consistently improving and progressing in ways that surprise yourself
+- Improving my resolve was probably one of the biggest personal skills I got to develop. Coding can sometimes feel overwhelming but when working as a team and using the right resources can get you consistently improving and progressing in ways that surprise yourself
+-
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above
 - e.g Frequently used paring in order to problem solve effeciently, requiring teamwork and communication.
 - More technical skills/knowledge listed below: 
-- Ruby, JavaScript, React, Jest, 
-- RSpec
+- Ruby, JavaScript, React, Express, Mongoose, PostgreSQL, Node.js
+- RSpec, Jest
 
 #### **BSc Product Design - Bournemouth University**  (Sept ‘16 - July ‘21)
 
