@@ -91,12 +91,15 @@ I honed my communication skills while completing my thesis at university, which 
 - Makers Academy provides an intensive course to provide you with the skills to become a junior developer with Full Stack experience
 - Throughout the course, we did plenty of practice exercises independently and through pair programming which you can peruse on my GitHub account
 - Improving my resolve was probably one of the biggest personal skills I got to develop. Coding can sometimes feel overwhelming but when working as a team and using the right resources can get you consistently improving and progressing in ways that surprise yourself
--
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above
-- e.g Frequently used paring in order to problem solve effeciently, requiring teamwork and communication.
-- More technical skills/knowledge listed below: 
-- Ruby, JavaScript, React, Express, Mongoose, PostgreSQL, Node.js
-- RSpec, Jest
+- Once we spent two months getting acquainted with the fundamentals of Ruby, the course started with an intensity of learning that I had never seen before. Within two and a half months, we had gone from learning the fundamentals of Test Driven Development to working in an 8 person team to make a full stack MERN web app and more.
+- Within that time we frequently used pairing in order to problem solve efficiently, requiring teamwork and communication. Thanks to the frequency of this, it got me more comfortable in asking my peers for help with concepts I didn't quite understand. I'm sure coding as a skill is something that you continually improve your understanding of, so I appreciate Makers for giving me the space to improve on this and plenty of other working methods. The pomodoro work schedule helped a fair deal as well, giving us frequent breaks that kept us fresh and ready for the hefty tasks we were undertaking.
+
+- We used:
+    - **Ruby and RSpec** to get us started and accustomed to TDD, then building on this with **PostgreSQL and Sinatra** to build websites with their own databases
+    - After gaining confidence with these programs, we moved on to **JavaScript** and **Jest** to make the most of the more complex web scenarios that JavaScript works wonders with. These included making algorithms that utilized APIs and using DOM elements.
+    - This led us well into using the **MERN** stack (Mongoose, Express, React, Node.js) to create a Facebook clone website as a way of getting accustomed.
+ 
+- Throughout the Sinatra web app, the Facebook clone, and the final project, we realized as a cohort and within our respective teams, how important communication and planning are when bringing something like this together. Utilizing an Agile working environment, setting out a team charter before starting, and working within the tickets of each sprint; These were processes that our cohort worked to continually improve, and the more we did, the happier we were with the results. 
 
 #### **BSc Product Design - Bournemouth University**  (Sept ‘16 - July ‘21)
 
