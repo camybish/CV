@@ -2,13 +2,13 @@
 
 I am a committed and responsible person who works well either independently or in a team.
 A creative and calm individual able to adapt to different roles and tasks who wants to develop my
-skills and establish a successful career as a Developer after completing my BSc in Product Design degree.
+skills and establish a successful career as a Software Developer
 
 ## Projects
 
 | Name                   | Description                                           | Tech/tools        | Website link |
 | -----------------------| ------------------------------------------------------| ----------------- |--------------|
-| **Final project**      | A webapp to do x.                                     | React, Jest, etc. |              |
+| **Battle Tetris**      | 2-player tetris played on the same grid               | Javascript, Jest, CSS, HTML5 | https://michael-szczepanski.itch.io/battle-tetris             |
 | **Acebook**            | A social media web app that lets you chat with friends in the same vain as classic FaceBook | React, Express, Node.js, Mongoose  | https://acebook-airbenders-frontend.onrender.com/login |
 
 
@@ -35,7 +35,7 @@ _Teaching Assistant_
     - Helping children keep pace in what can be, for them, an incredibly fast-paced learning environment
     - Being observant of any extra difficulties they may be having that aren't already documented
     - Importantly, talking to them on their level so that they're as receptive to your help and the material as they can be 
-- I also spent 6 weeks at Reflections Nursery in Worthing in which I learnt a great deal about, what Ofsted deems, their “Outstanding” methods of enriching the development of young children. I worked as an early years educator for 45 hours a week, learning their version of the Reggio Amelia approach which fosters children's innate curiosity for the world.
+- I also spent 6 weeks at Reflections Nursery in Worthing where I learned a great deal about, what Ofsted deems, their “Outstanding” methods of enriching the development of young children. I worked as an early years educator for 45 hours a week, learning their version of the Reggio Amelia approach which fosters children's innate curiosity for the world.
 
 **Peacocks Ltd** (May 19 to Mar' 21)  
 _Sales Assistant_
@@ -55,35 +55,24 @@ _Intern_
 ## Skills
 
 IT Skills - Gained from my Degree
-- Proficient in SolidWorks, Photoshop, Illustrator, SketchUp, and Marvel plus a basic understanding of Proteus (circuitry design software). I am also a highly competent user of Microsoft Office products.
+- Proficient in SolidWorks, Photoshop, Illustrator, SketchUp, and Marvel plus a basic understanding of Proteus (circuitry design software). I am also a highly competent user of Microsoft Office products. In terms of computer programming, I'm practised in:
 
-((Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.))
-
-((Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevant to technology. Good examples clearly explain the impact you've had.))
-
-
-Here's an example
+- Ruby & RSpec
+- Sinatra
+- JavaScript & Jest
+- Mongoose
+- Express
+- React
+- Node.js
+- TDD
+- Agile Development
+- Git & GitHub
 
 #### Communication
-
-Recently I've worked on further improving my skills in team environments at Makers. In the AceBook project, ...
 
 One of the biggest developments in my communication skills came from my work at Pier Pressure. Each shift provided a new way to hone in my introduction and process throughout the game to give players the best experience possible, whether that be by perfecting my presentation abilities in the introduction speech or providing clues that provided a good challenge for players and stayed true to the theme of the room. This also bought challenges with being improvisational to accommodate the different help needed for teams. 
 
 What set me up for utilising such abilities was my work as a Learning Support Assistant. As I was working with children with different educational needs at all different ages, I needed to be very adaptive in my approach. Some children would require a high-energy approach to grab their attention, and others would need some time to adjust to my presence before offering advice and support on the work they were doing. I value the work I did and the learning process I went through immensely. 
-
-Example Below 
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some online evidence (blogs, videos, articles, etc.)
-
-#### Another skill
-
 
 ## Education
 
@@ -115,8 +104,6 @@ I honed my communication skills while completing my thesis at university, which 
 - B-Tech – IT – Distinction
 - Piano & Music Theory up to and including Grade 5
 
-((That in some arguable way make you a better software developer or well-rounded person))
-
 ## Hobbies
 
 - Bouldering
@@ -124,5 +111,3 @@ I honed my communication skills while completing my thesis at university, which 
     
 - Journaling
     - Journaling as well as some other forms of writing have helped me to continually develop my communication skills and have helped give me the interesting writing challenge of making the mundane moments exciting to read about. 
-
-((Any cool stuff that makes you a super part of a software development team))
