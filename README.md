@@ -57,16 +57,10 @@ _Intern_
 IT Skills - Gained from my Degree
 - Proficient in SolidWorks, Photoshop, Illustrator, SketchUp, and Marvel plus a basic understanding of Proteus (circuitry design software). I am also a highly competent user of Microsoft Office products. In terms of computer programming, I'm practised in:
 
-- Ruby & RSpec
-- Sinatra
+- Ruby, RSpec & Sinatra (example shown here https://wills-test-on-the-web.onrender.com/ )
 - JavaScript & Jest
-- Mongoose
-- Express
-- React
-- Node.js
-- TDD
-- Agile Development
-- Git & GitHub
+- Mongoose, Express, React & Node.js
+- TDD, Agile Development + Git & GitHub
 
 #### Communication
 
