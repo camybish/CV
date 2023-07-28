@@ -74,7 +74,11 @@ What set me up for utilising such abilities was my work as a Learning Support As
 
 #### Emotional Intelligence
 
+I feel that in the last two years, my level of emotional intelligence has improved drastically and thanks to the work. I've done as a learning support assistant and a student at makers Academy. when working in schools, especially with the role I had, he required an incredible level of empathy to ensure they complete what is expected of them. In order to do this, you need to build a connection many children, especially in secondary schools are jaded to staff intervention, so this connection and empathy I've built over the year and a half, try New methods and providing emotional support when that connection is made
+
 #### Team Player
+
+I have worked and team environments before this, but I feel that my time at Makers Academy was a fantastic showcase of how well I can work in a team environment. I feel that the best example of this was my work in the final project, battle Tetris. for this final project, we settled on my idea for a Tetris clone that is played between two people on the same grid. with this being my idea, I felt I had a level of responsibility to ensure that this I do get made with great care and presented as such by the end. So, I took charge of the initial conception stage since none of us had made a game before, I decided that the first week of this two week project should be dedicated to figuring out how to make a game in June we have technologies that we are familiar with. This took a day to deliberates and conclude a plan for, but of course this wasn't smooth sailing. overall we decided collectively to have a rotation of team leaders and bring in ideas through a votes. Overall in this and other projects, I feel that I can be quite dynamic in taking leadership when it is needed, as well as stepping back to allow other voices to come forward.
 
 ## Education
 
