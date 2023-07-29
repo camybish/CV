@@ -68,13 +68,11 @@ IT Skills - Gained from my Degree
 
 #### Communication
 
-One of the biggest developments in my communication skills came from my work at Pier Pressure. Each shift provided a new way to hone in my introduction and process throughout the game to give players the best experience possible, whether that be by perfecting my presentation abilities in the introduction speech or providing clues that provided a good challenge for players and stayed true to the theme of the room. This also bought challenges with being improvisational to accommodate the different help needed for teams. 
-
-What set me up for utilising such abilities was my work as a Learning Support Assistant. As I was working with children with different educational needs at all different ages, I needed to be very adaptive in my approach. Some children would require a high-energy approach to grab their attention, and others would need some time to adjust to my presence before offering advice and support on the work they were doing. I value the work I did and the learning process I went through immensely. 
+At Makers Academy, I regularly presented during each of the 3 group projects. This involved describing the development process, summarising the challenges, and highlighting the functionality of the product. This would include providing product demos to peers and the training team. This means I was able to clearly set out my approach. My communication skills regarding the work I did came into effect in my process of understanding the coding concepts that we made our way through. With plenty of pair programming and a fair few projects of practice, I can confidently say I can relay at all different levels of technicality, what is happening in the code that I write. This built on my communication skills from my work at Pier Pressure. Each shift provided a new way to hone in my introduction and process throughout the game to give players the best experience possible, whether that be by perfecting my presentation abilities in the introduction speech or providing clues that provided a good challenge for players and stayed true to the theme of the room. I carried the skills I learnt into my work a
 
 #### Emotional Intelligence
 
-What I've done as a Learning Support Assistant, has greatly improved my emotional intelligence. When working in schools, my role required an incredible level of empathy to ensure children complete what is expected of them. In order to do this, you need to build a connection. Many children, especially in secondary schools are jaded to staff intervention, so a good connection, found from trying many many methods, and plenty of empathy was essential. 
+What I've done as a Learning Support Assistant, has greatly improved my emotional intelligence. When working in schools, my role required an incredible level of empathy to ensure children complete what is expected of them. In order to do this, you need to build a connection. Many children, especially in secondary schools are jaded to staff intervention, so a good connection, found from trying many many methods and plenty of empathy was essential. 
 
 #### Team Player
 
@@ -83,6 +81,12 @@ I have worked and team environments before this, but I feel that my time at Make
 If you want to know more about the process of making Battle Tetris you can watch our presentation using this link: https://youtu.be/poiWhBTU_ys?t=1924
 
 We decided collectively to have a rotation of team leaders and bring in ideas through votes. Overall in this and other projects, I feel that I can be quite dynamic in taking leadership when it is needed, as well as stepping back to allow other voices to come forward.
+
+#### Creativity
+
+In my final project at Makers, Battle Tetris, it was invigorating to utilise the skills I developed from my degree in product design. A big focus of the degree and this final project was taking an idea from a simple sketch to a fully-fledged prototype. There were a lot of similarities between the two and the project was a refreshingly creative one at that. We went through an iterative process to first come up with the idea for Battle Tetris, something that felt achievable within the two weeks allotted. From there we focused on what the minimum viable product would be in the first week, with plenty of ideas between us to keep in mind once the game engine was made. In the second week, we focused on visuals, added quality-of-life features and added power-ups that affected each level of player differently. The power-ups were a great new creative challenge, being creative with functions and deliberating how they will affect the player while keeping in mind what was achievable within the timeframe. 
+
+#### Perseverance  
 
 ## Education
 
