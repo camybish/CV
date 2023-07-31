@@ -84,9 +84,11 @@ We decided collectively to have a rotation of team leaders and bring in ideas th
 
 #### Creativity
 
-In my final project at Makers, Battle Tetris, it was invigorating to utilise the skills I developed from my degree in product design. A big focus of the degree and this final project was taking an idea from a simple sketch to a fully-fledged prototype. There were a lot of similarities between the two and the project was a refreshingly creative one at that. We went through an iterative process to first come up with the idea for Battle Tetris, something that felt achievable within the two weeks allotted. From there we focused on what the minimum viable product would be in the first week, with plenty of ideas between us to keep in mind once the game engine was made. In the second week, we focused on visuals, added quality-of-life features and added power-ups that affected each level of player differently. The power-ups were a great new creative challenge, being creative with functions and deliberating how they will affect the player while keeping in mind what was achievable within the timeframe. 
+In my final project at Makers, Battle Tetris, it was invigorating to utilise the skills I developed from my degree in product design. A big focus of the degree and this final project was taking an idea from a simple sketch to a fully-fledged prototype. There were a lot of similarities between the two and the project was a refreshingly creative one at that. We went through an iterative process to first come up with the idea for Battle Tetris, something that felt achievable within the two weeks allotted. From there we focused on what the minimum viable product would be in the first week, with plenty of ideas between us to keep in mind once the game engine was made. In the second week, we focused on visuals, added quality-of-life features and added power-ups that affected each level of player differently. The power-ups were a great new creative challenge, that is to be creative with functions and deliberating how they will affect the player at different levels of ability while keeping in mind what was achievable within the timeframe. 
 
 #### Perseverance  
+
+It's safe to say my work with Engage Education as a Learning Support Assistant gave ..
 
 ## Education
 
