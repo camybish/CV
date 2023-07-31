@@ -86,7 +86,7 @@ We decided collectively to have a rotation of team leaders and bring in ideas th
 
 In my final project at Makers, Battle Tetris, it was invigorating to utilise the skills I developed from my degree in product design. A big focus of the degree and this final project was taking an idea from a simple sketch to a fully-fledged prototype. There were a lot of similarities between the two and the project was a refreshingly creative one at that. We went through an iterative process to first come up with the idea for Battle Tetris, something that felt achievable within the two weeks allotted. From there we focused on what the minimum viable product would be in the first week, with plenty of ideas between us to keep in mind once the game engine was made. In the second week, we focused on visuals, added quality-of-life features and added power-ups that affected each level of player differently. The power-ups were a great new creative challenge, that is to be creative with functions and deliberating how they will affect the player at different levels of ability while keeping in mind what was achievable within the timeframe.
 
-
+One major obstacle to creating this Tetris game was making sure the pieces could rotate and that was a challenge that I fully embraced. I figured out an algorithm that would change the respective coordinates and after 2 refactorings, I made a scalable solution that made later revisons and additions a lot easier. It was a great blend of my mathematical ability and creative problem solving.
 
 
 ## Education
