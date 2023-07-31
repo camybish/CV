@@ -88,7 +88,7 @@ In my final project at Makers, Battle Tetris, it was invigorating to utilise the
 
 #### Perseverance  
 
-It's safe to say my work with Engage Education as a Learning Support Assistant gave ..
+It's safe to say my work with Engage Education as a Learning Support Assistant gave me a new level of resolve, both through learning on the job how to best work with kids, and the tribulations of working contract. before starting as a learning support assistant, I went into the role having only some experience with tutoring. I learnt an incredible amount in a practical sense. there was plenty of challenging behaviour, but I came into each go with new ideas as us how to manage this and overtime gained a considerable skill set through this persistence and in Tan it was incredibly fulfilling. More contracts faced challenges arose during the summer of 2022. I had such a a contract due to a logistical problem and I was devastated. It was the only work that my agency had that was open during the summer. So to resolve this, I signed up with a different agency that gave me day work at various different nurseries in order to make up for the lack of work during that summer holiday period. Thanks to this resilience, I was repaid with work for a new tire to Tan period it's a Burgess Hill Academy. This role offered a great opportunity to demonstrate the skills. I had learnt up until that point and make a difference at this institution.
 
 ## Education
 
