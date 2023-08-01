@@ -34,8 +34,6 @@ _Teaching Assistant_
     - Recontextualising problems in a simpler-to-understand way
     - Helping children keep pace in what can be, for them, an incredibly fast-paced learning environment
     - Being observant of any extra difficulties they may be having that aren't already documented
-    - Importantly, talking to them on their level so that they're as receptive to your help and the material as they can be 
-
 
 **Peacocks Ltd** (May 19 to Mar' 21)  
 _Sales Assistant_
